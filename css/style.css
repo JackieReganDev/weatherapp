@@ -1,0 +1,14 @@
+body{
+  font-family: 'Source Sans Pro', sans-serif;
+  text-align: center;
+  color: red;
+  background-image: url(../weather2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 600px;
+  width: 100%;
+}
+button{
+  height: 22px;
+  width: 7%;
+}
